@@ -1,5 +1,19 @@
 # event-station
 stations that have active components to engage the exchange of resources. some can be mobile.
+
+The concept has 3 main features:
+
+1. Area of effect
+We use the acoustic signal to achieve the area effect. The totem is similar to transmitters keeps sending acoustic signals. So all of the players around a totem can receive sound signals equally and then get healed.
+
+2.Deactivatedable
+It means that the totem can be destroyed by the enemies. The purpose of doing this characteristic is to improve the playability. Players can develop strategies together to think about how to protect their totems or attack enemy’s totem.
+
+3.Switchable system (future plan)
+The totem’s functionality is not limited to healing. We also designed other features like increasing team’s defense ability and increasing the attack damage. Players can switch different functions by buttons. Players can only have one effect at the same time.
+
+
+
 # Conceptual Components
 
 * A switch to toggle teams;
